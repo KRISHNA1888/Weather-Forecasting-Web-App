@@ -17,10 +17,9 @@ A responsive weather forecasting web application that provides real-time weather
 - OpenWeatherMap API
 
 ## Live Demo
-https://kaarthik-96.github.io/weatherForecastingWebApp/
+https://github.com/KRISHNA1888/weatherForecastingWebApp/
 
 ## Screenshots
-(Add your screenshots here)
 
-## Team Project
-This project was developed collaboratively as a team project. This repository is maintained as part of my personal portfolio to showcase my contribution and implementation.
+
+
